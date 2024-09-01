@@ -123,7 +123,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			html {
-				font-size: 14pt;
+				font-size: 15pt;
 			}
 
 		}
@@ -131,7 +131,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 14pt;
 			}
 
 		}
@@ -139,7 +139,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 11pt;
+				font-size: 13pt;
 			}
 
 		}
@@ -147,7 +147,7 @@ input, select, textarea {
 		@media screen and (max-width: 360px) {
 
 			html {
-				font-size: 10pt;
+				font-size: 12pt;
 			}
 
 		}
@@ -2162,6 +2162,7 @@ input, select, textarea {
 		.button.large {
 			font-size: 1rem;
 			height: 6em;
+			min-width: 22em;
 			line-height: 6em;
 			border-radius: 6em;
 			padding: 0 1em;
