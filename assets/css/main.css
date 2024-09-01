@@ -4899,6 +4899,38 @@ ENRICO: CHANGE THIS BELOW TO CHANGE THE COLOR BEHIND IMAGES LOADING WHEN FOCUSIN
 			color: #fff8f0;
 			background-color: #26582d;
 		}
+		
+        .spotlight.style1.content-invert-colors h1 {
+			color: #fff8f0;
+		}
+		
+        .spotlight.style1.content-invert-colors h2 {
+			color: #fff8f0;
+		}
+		
+        .spotlight.style1.content-invert-colors h3 {
+			color: #fff8f0;
+		}
+		
+        .spotlight.style1.content-invert-colors h4 {
+			color: #fff8f0;
+		}
+		
+        .spotlight.style1.content-invert-colors h5 {
+			color: #fff8f0;
+		}
+		
+        .spotlight.style1.content-invert-colors h6 {
+			color: #fff8f0;
+		}
+		
+        .spotlight.style1.content-invert-colors li {
+			color: #fff8f0;
+		}
+		
+        .spotlight.style1.content-invert-colors .h1 {
+			color: #fff8f0;
+		}
 
 		.spotlight.style1 .image {
 			-moz-flex-grow: 0;
