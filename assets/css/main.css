@@ -2160,11 +2160,11 @@ input, select, textarea {
 		input[type="button"].large,
 		button.large,
 		.button.large {
-			font-size: 0.8rem;
-			height: 4em;
-			line-height: 4em;
-			border-radius: 4em;
-			padding: 0 3em;
+			font-size: 1rem;
+			height: 6em;
+			line-height: 6em;
+			border-radius: 6em;
+			padding: 0 1em;
 		}
 
 		input[type="submit"].wide,
