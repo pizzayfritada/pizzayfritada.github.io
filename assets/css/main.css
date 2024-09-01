@@ -2160,9 +2160,9 @@ input, select, textarea {
 		input[type="button"].large,
 		button.large,
 		.button.large {
-			font-size: 1rem;
+			font-size: 1.5rem;
 			height: 3em;
-			min-width: 22em;
+			min-width: 10em;
 			line-height: 3em;
 			border-radius: 3em;
 			padding: 0 1em;
